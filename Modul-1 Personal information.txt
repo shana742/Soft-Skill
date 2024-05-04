@@ -1,0 +1,12 @@
+----------------------------------------(Module 1.Personal Information.)----------------------------------------------------------------------------
+
+
+  Hello! 
+   
+  My name is shana momin and I have a background in BCA. Currently, I am  Full stack developer in python at Tops Technolgy.
+
+  Creativity, analytical skills, and a passion for problem-solving are some of my key personality traits. I enjoy thinking outside the box to find   innovative solutions to challenges, and I'm meticulous when it comes to analyzing data and information to derive insights and make informed   decisions.
+
+  My interest in technology stems from its ever-evolving nature and its profound impact on our daily lives. I am fascinated by how technology has the   power to transform industries, improve efficiency, and enhance communication. Additionally, I am drawn to the endless opportunities for learning   and growth within the tech field. I chose this career path because I believe it allows me to combine my analytical mindset with my creative   problem-solving skills to contribute meaningfully to the advancement of society through technology.
+
+
