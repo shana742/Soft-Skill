@@ -1,9 +1,9 @@
-----------------------------------------(Module 1.Personal Information.)----------------------------------------------------------------------------
+----------------------------------------(Module 1.Personal Information.)---------------------------------------------------------------------
 
 
   Hello! 
    
-  My name is shana momin and I have a background in BCA. Currently, I am  Full stack developer in python at Tops Technolgy.
+  My name is shana momin and I have a background in BCA. Currently, I am  Full stack developer in python at Tops Technologies.
 
   Creativity, analytical skills, and a passion for problem-solving are some of my key personality traits. I enjoy thinking outside the box to find   innovative solutions to challenges, and I'm meticulous when it comes to analyzing data and information to derive insights and make informed   decisions.
 
