@@ -1,0 +1,61 @@
+1) Introduce Yourself 
+
+->  
+        My name is Shana Momin. I hold a degree in B.C.A from HNGU University.I am a certified Full Stack Developer with training in web development technologies. My technical skills include proficiency in JavaScript, React MongoDB, and RESTful APIs. I am experienced in building and maintaining both frontend and backend systems, ensuring seamless integration and 
+
+
+2). Why did you choose this language? 
+
+-> I chose full-stack development because it allows me to work on both the frontend and backend, giving me a complete understanding       of the entire development process. 
+
+3)  What are your strengths? 
+
+->   enthusiasm for technology and my strength of upgrading myself led me to join the it industry
+
+4)  Specify your weakness? 
+
+->  One of my weaknesses is that I sometimes find it challenging to ask for help when I encounter difficulties.
+
+5)  what motivates you to do a good job?
+
+-> I'm motivated by the satisfaction of doing meaningful work and seeing the impact of my contributions. Helping others succeed and       receiving recognition for my efforts also drive me to do my best.
+
+6) If given a choice would you like to work in a team or standalone?
+
+-> Given the choice, I prefer working in a team environment. I value the opportunity to collaborate with others, share ideas, and    leverage diverse perspectives to solve challenges creatively. Working in a team also allows for continuous learning and growth     through collective expertise and support.
+
+7) What are your expectations from the company? 
+
+-> I expect the company to offer opportunities for professional growth and skill development.
+
+8) What makes you angry? 
+
+-> I rarely get angry, but I find it frustrating when there are communication breakdowns or when deadlines are not met without clear      reasons. I prefer to address issues calmly and focus on finding solutions rather than getting upset.
+
+9)  Tell me about your hobbies. 
+
+-> One of my hobbies is gaming, where I enjoy exploring various genres and platforms. It's a great way to unwind and challenge myself    with different gameplay experiences.
+
+10) Where do you see yourself five years down the line?
+
+-> In five years, I see myself in a leadership role where I can take on more responsibilities, lead teams, and contribute to the         company's growth and success.
+
+11) Are you comfortable extending your work timings and work over weekends? 
+
+-> I always aim to complete my work on schedule to meet deadlines. If required to support the company by extending work hours or    working weekends, I am willing to do so to contribute to our team's success.
+
+12) How long would you work for us if hired?
+
+-> I am seeking a long-term association with a company where I can grow professionally and contribute to its success over the years.
+
+13) Can you work under pressure or deadlines?
+
+->  Yes, I can work well under pressure and meet deadlines by prioritizing tasks and focusing on solutions to challenges as they arise.
+
+
+14) What was the toughest decision you ever had to make ?
+
+->  One minor mistake I made was not researching my major options thoroughly after school. Now, I prioritize gathering all necessary     information before making important decisions.
+
+15)  
+
